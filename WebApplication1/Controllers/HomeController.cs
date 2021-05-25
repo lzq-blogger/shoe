@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
     {
         public ActionResult Index()
         {
-            global::System.Console.WriteLine(fefefef);
+            global::System.Console.WriteLine(fehhrtht);
             return View();
         }
 
